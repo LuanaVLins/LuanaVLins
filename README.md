@@ -1,9 +1,12 @@
-###Oiii! Eu sou a Luana Lins
+#Oiii! Eu sou a Luana Lins
 
-##Fico muito feliz com sua visita e sinta-se a vontade para entrar em contato, será um enorme prazer adicioná-lo(a) a minha rede. 
+###Fico muito feliz com sua visita e sinta-se a vontade para entrar em contato, será um enorme prazer adicioná-lo(a) a minha rede. 
 
 <div>
- <img align="center" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+   <a href="https://github.com/LuanaVLins">
+ 
+   <img align="center" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+ 
 </div>
 
 <div>
@@ -17,8 +20,6 @@
  ##
 
  <div>
-
-  <a href="https://github.com/LuanaVLins">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaVLins&show_icons=midnight-purple&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     
