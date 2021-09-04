@@ -3,7 +3,7 @@
 ##Fico muito feliz com sua visita e sinta-se a vontade para entrar em contato, será um enorme prazer adicioná-lo(a) a minha rede. 
 
 <div>
- <img align="right" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+ <img align="center" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
 </div>
 
 <div>
