@@ -1,6 +1,6 @@
 # Oiii! Eu sou a Luana Lins
 
-### Fico muito feliz com sua visita e sinta-se a vontade para entrar em contato, será um enorme prazer adicioná-lo(a) a minha rede. 
+### Fico muito feliz com sua visita, sinta-se à vontade para entrar em contato. Será um enorme prazer!
 
 <div>
    <a href="https://github.com/LuanaVLins">
