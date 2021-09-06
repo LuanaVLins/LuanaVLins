@@ -3,6 +3,7 @@
 ### Fico muito feliz com sua visita, sinta-se à vontade para entrar em contato. Será um enorme prazer!
  <div>
   <a href="https://github.com/LuanaVLins">
+  <img align="center" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -14,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+ 
 </div>
   
   ##
