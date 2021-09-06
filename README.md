@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
  
-   <img align="right" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+   <img align="left" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
       </div>
  
 
