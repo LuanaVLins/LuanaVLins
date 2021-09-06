@@ -1,4 +1,4 @@
-# Oiii! Eu sou a Luana Lins
+# Olá! Eu sou a Luana Lins :vulcan_salute:
 
 ### Fico muito feliz com sua visita, sinta-se à vontade para entrar em contato. Será um enorme prazer!
   
