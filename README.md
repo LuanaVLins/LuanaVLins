@@ -2,8 +2,10 @@
 
 ### Fico muito feliz com sua visita, sinta-se à vontade para entrar em contato. Será um enorme prazer!
   
- <div style="display: inline_block"; vertical-align:"top"><br>
-  <img align="right" alt="Ponyo-happy" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+ <p align="center">
+  <img align="center" height="300" width="500" src="https://64.media.tumblr.com/5a564c6dba0969aa9f51177c0e7d6d46/3acc154803c6216b-f2/s500x750/143a68aeffe79d6e2e06841923287077b97e588a.gif">
+</p>
+ <div>
   <a href="https://github.com/LuanaVLins">
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
